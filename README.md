@@ -24,25 +24,6 @@ The **Feature Engineering** notebook showcases practical steps for:
 - **Practical Use Case**: Demonstrates techniques to handle real-world datasets.
 - **Reusable Functions**: Includes modular code for common preprocessing steps.
 
-## Installation
-1. Clone the repository:
-   ```bash
-   git clone https://github.com/yasirpt07/Feature_Engineering-Practice.git
-   ```
-2. Navigate to the project directory:
-   ```bash
-   cd feature-engineering
-   ```
-3. Create and activate a virtual environment:
-   ```bash
-   python -m venv env
-   source env/bin/activate  # On Windows: env\Scripts\activate
-   ```
-4. Install the required dependencies:
-   ```bash
-   pip install -r requirements.txt
-   ```
-
 ## Usage
 1. Launch the Jupyter Notebook:
    ```bash
